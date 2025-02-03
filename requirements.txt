@@ -1,0 +1,15 @@
+langchain_community 
+tiktoken 
+langchain-openai 
+langchainhub 
+chromadb 
+langchain
+faiss-cpu
+transformers
+torch 
+torchvision
+torchaudio
+beautifulsoup4
+jq
+python-dotenv
+pandas
